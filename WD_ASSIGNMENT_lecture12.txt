@@ -1,0 +1,25 @@
+1. What are logical and physical tags in HTML?
+ANS:          Logical tags are used to provide information by giving the special importance to the text. 
+              For instance, <em> tag is used to emphasize the text by representing it in italic format.
+
+
+
+
+
+2. What is the difference between CSS2 and CSS3?
+ANS:           Unlike CSS2, which was comprised of a single document, 
+               CSS3 has its specifications divided into many individual modules,
+               which makes CSS3 a whole lot easier to handle.
+
+
+
+
+3. Semantic element in HTML5? 
+ANS:           A semantic element clearly describes its meaning to both the browser and the developer.
+               ex. : <form>, <table>, and <article> - Clearly defines its content.
+
+
+
+
+
+

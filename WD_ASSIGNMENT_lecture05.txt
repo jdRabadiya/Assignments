@@ -1,0 +1,80 @@
+1. What is 'class' attribute in HTML?
+ANS. :  class attribute is used to specify a class for an HTML element.
+        The class attribute specifies one or more classnames for an element. 
+        The class attribute is mostly used to point to a class in a style sheet.
+
+
+
+
+2. What is different between 'ID' and 'class' attributes in HTML elements?
+ANS. :  A class name can be used by multiple HTML elements.
+        An id name must only be used by one HTML element within the page.
+
+
+
+
+3. What are benefits of using CSS?
+ANS. :  CSS - Cascalding Style Sheet
+        With use of CSS we can change color,background,fonts,...etc. of HTML element.
+        Using CSS we make simple web page better.
+        Single change in CSS can change look/layout of entire website.
+        
+
+
+
+4. Name a few CSS style components.
+ANS. :  font-size, font-weight, font-family, text-align, text-decoration, text-transform, color, background-color,....etc
+
+
+
+
+
+5. How can the background color of an element be changed?
+ANS. :  We give CSS properties - "background-color:value"; to the HTML element.
+        Ex. <p style="background-color:red;">text</p>
+
+
+
+
+6. Why should background and color be used as separate property?
+ANS. :  Because background is use for background-color of an element/tags.
+        And color is use for font color.
+
+
+
+
+7. What are the way to integrate css as a web page?
+ANS. :  There are three ways to integrate css
+        1.Inline
+        2.Internal/Embedded
+        3.External
+
+
+
+
+8. What is embedded style sheets?
+ANS. :  Embedded style sheet is Internal style sheet.
+        In this method we need to mention <style></style> tag in HTML head section and give CSS properties in this <style></style> tag.
+
+
+
+
+9. What are the external style sheets?
+ANS. :  External style sheet is seperate css file which mention in head section of HTML with use of <link/> tag or <style>@emport'file.css';</style>
+
+
+
+
+10. What is the meaning of the CSS selector?
+ANS. :  CSS selector may be HTML tags/elements,class,id,...
+        Use to give CSS properties to the HTML elements/tags/class/id.
+
+
+
+
+11. What are the advantages and disadvantages of using external style sheets? 
+ANS. :  Disadvantages: - Your pages may not be rendered correctly until the external CSS is loaded.
+                       - Uploading or linking to multiple CSS files can increase your site's download time.
+
+        Advantages : - One change to the style sheet can change all linked page.
+                     - Consistent look and feel across multiple webpages. 

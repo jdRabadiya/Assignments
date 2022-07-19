@@ -1,0 +1,46 @@
+1. How to insert a picture into a background image of a web page?
+ANS.          To insert picture into background use background-image property of css
+              background-image:url(image.jpeg);
+
+
+
+
+
+
+2. What are the different tags to separate sections of text?
+ANS.          <br> tag – Usually <br> tag is used to separate the line of text. It breaks the current line and conveys the flow to the next line.
+              <p> tag – This contains the text in the form of a new paragraph.
+              <blockquote> tag – It is used to define a large quoted section.
+
+
+
+
+
+3. How can the background color of an element be changed?
+ANS.          Use background-color properties for change background color of an element.
+              <style>element{background-color:red;}</style>
+
+
+
+
+
+4. How can image repetition of the backup be controlled? 
+ANS.          To control the repetition of an image in the background, use the background-repeat property.
+              You can use no-repeat value for the background-repeat property if you do not want to repeat an image.
+
+
+
+
+
+
+5. What is the use of the background-position property?
+ANS.          The background-position property sets the position of a background image.
+              By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
+
+
+
+
+
+6. Which property controls the image scroll in the background? 
+ANS.          To set the scrolling of an image in the background, use the background-attachment property.
+              <style>elemnt{background-attachment:fixed;}</style>

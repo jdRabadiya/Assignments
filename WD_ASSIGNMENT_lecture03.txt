@@ -1,0 +1,58 @@
+1. What are different types of lists in HTML?
+ANS.               1.Ordered list: 
+                            <ol type="">  //type=1,a,A,i,I,...
+                                  <li></li>
+                                  <li></li>
+                            </ol>
+
+                   2.Unordered list: 
+                            <ul type="">  //type=square,circle,...
+                                  <li></li>
+                                  <li></li>
+                            </ul>
+
+                   3.Defination list: 
+                            <dl>  
+                                  <dt>TERMS</dt>
+                                  <dd>DESCRIPTION</dd>
+                            </dl>
+
+                   4.Nested list: 
+                            <ol>  
+                               <li>fruit</li>
+                                  <ul>
+                                     <li>apple</li>
+                                     <li>banana</li>
+                                  </ul>
+                               <li>vegetable</li>
+                                  <ul>
+                                     <li>potato</li>
+                                     <li>tomato</li>
+                                  </ul>
+                            </ol> 
+
+
+2. How can we club two or more rows or columns into a single row or column in a HTML table?
+ANS.              - Using rowspan we can club two or more rows into a single row.
+                               <table>
+                                    <tr rowspan="1">
+                                         <td></td>
+                                         <td></td>
+                                    </tr>
+                                    <tr>
+                                         <td></td>
+                                         <td></td>
+                                    </tr>
+                                </table>
+                  - Using colspan we can club two or more columns into a single column.
+                               <table>
+                                    <tr>
+                                         <td colspan="1"></td>
+                                         <td></td>
+                                    </tr>
+                                    <tr>
+                                         <td></td>
+                                         <td></td>
+                                    </tr>
+                                </table>
+                             

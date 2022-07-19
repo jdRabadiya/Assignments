@@ -1,0 +1,15 @@
+1. What is the rule set?
+ANS:           A CSS ruleset is various affirmations to various pieces or elements of the document.
+               The objective is to apply a bunch of properties for certain distinct qualities to a solitary,
+               or a particular arrangement of components in the connected HTML page.
+
+
+
+
+
+2. What are the media types allowed by CSS?
+ANS:           continuous or paged.
+               visual, audio, speech, or tactile.
+               grid (for character grid devices), or bitmap.
+               interactive (for devices that allow user interaction), or static (for those that do not).
+               all (includes all media types)

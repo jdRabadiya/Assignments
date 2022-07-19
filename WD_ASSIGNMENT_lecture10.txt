@@ -1,0 +1,73 @@
+1. What are void elements in HTML? 
+ANS:          A void element is an element whose content model never allows it to have contents under any circumstances.
+
+
+
+
+
+2. What are HTML Entities? 
+ANS:           Entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code),
+               and invisible characters (like non-breaking spaces).
+               A character entity looks like this: &entity_name; OR &#entity_number;
+
+
+
+
+
+
+3. What is SVG?
+ANS.:        SVG stands for Scalable Vector Graphics
+             SVG is used to define vector-based graphics for the Web
+             SVG defines the graphics in XML format
+
+
+
+
+
+4. What is difference between HTML and XHTML?
+ANS.:        HTML stands for Hypertext Markup Language.
+             XHTML stands for Extensible Hypertext Markup Language.
+             Both of these are used to develop web-based and android-based applications.
+
+
+
+
+5. What are logical and physical tags in HTML?
+ANS.:        Logical tags are used to provide information by giving the special importance to the text.
+             For example, <em> tag is used to emphasize the text by representing it in italic format.
+             Physical tags are used to style the content only.
+             For example, <i> is used to display the text in italic format.
+
+
+
+
+6. How are active links different from normal links? 
+ANS.:        Some browsers recognize an active link when the mouse cursor is placed over that link; others recognize active links when the link has the focus.
+             Those that don't have a mouse cursor over that link is considered a normal link.
+
+
+
+
+
+7. What are the new tags added in HTML5? 
+ANS.:        <article>,<aside>,<header>,<footer>,<nav>,<section>
+
+
+
+
+
+8. Canvas and SVG tags 
+ANS.:        SVG is Vector based (composed of shapes).
+             SVG gives better performance with smaller number of objects or larger surface.
+             SVG can be modified through script and CSS.
+             SVG has better scalability. So it can be printed with high quality at any resolution.
+
+             Canvas is Raster based (composed of pixel).
+             Canvas gives better performance with smaller surface or larger number of objects.
+             Canvas can be modified through script only.
+             Canvas has poor scalability. Hence it is not suitable for printing on higher resolution.
+
+
+
+
+

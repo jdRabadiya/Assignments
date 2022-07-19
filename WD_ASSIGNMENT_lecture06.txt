@@ -1,0 +1,31 @@
+1. How to create a Hyperlink in HTML?
+ANS.          To make a hyperlink in an HTML page, use the <a> and </a> tags, which are the tags used to define the links. 
+              The <a> tag indicates where the hyperlink starts and the </a> tag indicates where it ends. 
+              Whatever text gets added inside these tags, will work as a hyperlink. 
+              Add the URL for the link in the <a href=” ”>
+
+
+
+
+
+
+2. What is the use of span tag? Explain with example?
+ANS.          The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
+              The <span> tag is easily styled by CSS; <span> is an inline element.
+      Example : I have a <span style="color:red;"> Red </span> pen.
+
+
+
+
+
+
+3. How to center block elements using CSS1?
+ANS.          In CSS1,Using Margin attribute you can set block elements in center.
+
+
+
+
+
+4.TASK - How to change color of bullets in Lists?
+ANS.           Using ::marker(pseudo element) you can change color of bullets and whatever in list sequence.
+       Example : li::marker{color:red;}       

@@ -1,0 +1,37 @@
+1. Are the HTML tags and elements the same thing?
+   ANS : NO, both are not same     
+         TAG : HTML tag is just opening or closing entity, it start with < bracket and end with > bracket
+               Example - <p></p> is HTML tag.
+
+         ELEMENT : HTML element is opening tag,closing tag and content;whatever write within a html tag are html elements.
+                   Example - <p>this is content</p> is HTML element.
+
+
+
+
+
+2. What are defference between a block-level element and an inline element?
+   ANS : 
+         Block-level element : It take full width
+                               It always start with new line.
+                               EXAMPLE : <p></p>,<h1></h1>,..........<h6></h6>,<hr/>,<blockquote></blockquote>
+
+         Inline element : It take width only it necessary/required.
+                          It does not start with new line.
+                          EXAMPLE : <span></span>,<a></a>,<img/>,<br/>
+
+
+
+
+3. What are the various formatting tags in HTML?
+   ANS : // As per my point of view nested element is formatting tag; Correct me if i'm wrong.
+         <b></b> Bold text
+         <strong></strong> Bold text
+         <i></i> Italic text
+         <em></em> Emphasized text
+         <mark></mark> Highlight a text
+         <small></small> Smaller text
+         <del></del> Deleted text-line through
+         <ins></ins> Inserted text-underline
+         <sub></sub> Subscript text
+         <sup></sup> Superscript text 

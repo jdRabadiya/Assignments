@@ -1,0 +1,21 @@
+1. What are tags and attributes in html?
+Ans         TAGS : HTML tags is just opening or closing entity,it start with , braket and end with > bracket.
+                   Example - <p></p> is HTML tag.
+
+
+            ATTRIBUTES : Attributes provide additional information about elements
+                         Attributes are always specified in the start tag
+                         Attributes usually come in name/value pairs like : name="value"
+                         Example - <img src="google.jpeg"/> here img tag have src attribute and "google.jpeg" is it's value.
+
+
+
+
+
+
+
+
+2. What is the use of an iframe tag?
+ANS          iFRAME TAG : The HTML <iframe> tag is used to embed another document within the current HTML document.
+                          It display as box with border and scroller.
+                          Example : <iframe src="https://www.google.com"></iframe>
